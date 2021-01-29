@@ -1,0 +1,1 @@
+const { readFile, writeFileSync } = require('fs'); // from nodeJS
